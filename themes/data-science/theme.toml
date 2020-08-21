@@ -11,8 +11,8 @@ features = []
 min_version = "0.38"
 
 [author]
-  name = "Amber Thomas"
-  homepage = "amber.rbind.io"
+  name = "Financial Thursday~(Rodgers)"
+  homepage = "Rodgers.netlify.app"
 
 # If porting an existing theme
 [original]
