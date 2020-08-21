@@ -1,8 +1,8 @@
-baseURL = "https://amber.rbind.io/"
+baseURL = "https://rodgers.netlify.app/"
 languageCode = "en-us"
 title = "Financial Thursday~(Rodgers)"
 theme = "data-science"
-disqusShortname = "amberthomas"
+disqusShortname = "ndocharodgers"
 enableEmoji = true
 # allow search engines to search/crawl everything
 enableRobotsTXT = true
@@ -40,7 +40,7 @@ preserveTaxonomyNames = true
 
 
 [params.social]
-  email = "mailto:AmberThomasMSc@gmail.com"
+  email = "mailto:ndocharodgers@gmail.com"
   twitter = "https://twitter.com/ProQuesAsker"
   github = "https://www.github.com/ProQuestionAsker"
   linkedin = "https://www.linkedin.com/in/amberrthomas/"
